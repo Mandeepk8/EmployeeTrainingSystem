@@ -9,7 +9,7 @@
  <!DOCTYPE html>
  <html>
  <head>
- 	<title>Home Page</title>
+	
  	<form align=center>
  		<a href="homepage.php">Employee Training System</a>
  	</form>
