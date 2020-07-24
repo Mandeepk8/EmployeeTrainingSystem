@@ -10,7 +10,7 @@
  <html>
  <head>
 	
- 	<form align=center>
+ 	
  		<a href="homepage.php">Employee Training System</a>
  	</form>
 
